@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arpan596
-- 👀 I’m interested in 3rd year in my college 
+- 👀 I’m interested in Java, Devops and cloud
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Backend Developers
 - 📫 How to reach me 9883056867
